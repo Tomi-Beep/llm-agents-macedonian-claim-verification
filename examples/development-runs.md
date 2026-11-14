@@ -226,7 +226,7 @@ PyCharm reported exit code 0.
 
 ## 13 · Three development claims in the batch runner
 
-Script: `run-benchmark.py`. The runner called the four-turn workflow once per claim and printed the expected label outside the model prompts. This was the first run with the claim list. The prompt strings in the runner have leading spaces on some lines after moving the workflow into a function, so this is a development check of the runner.
+Script: `../run-benchmark.py`. The runner called the four-turn workflow once per claim and printed the expected label outside the model prompts. This was the first run with the claim list. The prompt strings in the runner have leading spaces on some lines after moving the workflow into a function, so this is a development check of the runner.
 
 ~~~text
 
