@@ -56,4 +56,4 @@ The initial answer declared `поткрепено` on 17 of 18 cases. Several of
 
 This is one run on a small set of constructed census claims. The comparison measures the combined effect of receiving a skeptic's review and making another model call to revise. A revision-only comparison with the same model and evidence would help distinguish the contribution of the skeptic's feedback.
 
-[Claim set and evidence catalogue](census-benchmark.json) · [Saved replies and timings](census-results.jsonl)
+[Claim set and evidence catalogue](../data/census-benchmark.json) · [Saved replies and timings](census-results.jsonl)
